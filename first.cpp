@@ -139,17 +139,3 @@ int main() {
 
   return 0;
 }
-
-/*
-
-a = 5, b = 6,
-
-c = a++
-d = ++b
-
-print a => 6
-print c => 6
-print d => 6
-print b => 7
-
-*/
